@@ -1,0 +1,36 @@
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\bin\Debug\GSB.exe.config
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\bin\Debug\GSB.exe
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\bin\Debug\GSB.pdb
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.Cache
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Debug\GSB.exe
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Debug\GSB.pdb
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Debug\WindowsFormsApplication1.FrmMenu.resources
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Debug\WindowsFormsApplication1.PanelConnexion.resources
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Debug\WindowsFormsApplication1.PanelProfil.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\bin\Debug\GSB.exe.config
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Debug\GSB.exe
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Debug\GSB.pdb
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\bin\Debug\GSB.exe
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\bin\Debug\GSB.pdb
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\bin\Debug\MySql.Data.dll
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Debug\GSB.csprojResolveAssemblyReference.cache
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Debug\WindowsFormsApplication1.FrmMenu.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Debug\WindowsFormsApplication1.PanelConnexion.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Debug\WindowsFormsApplication1.PanelProfil.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.Cache
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\bin\Debug\GSB.exe.config
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Debug\GSB.exe
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Debug\GSB.pdb
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\bin\Debug\GSB.exe
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\bin\Debug\GSB.pdb
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\bin\Debug\MySql.Data.dll
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Debug\WindowsFormsApplication1.FrmMenu.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Debug\WindowsFormsApplication1.PanelConnexion.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Debug\WindowsFormsApplication1.PanelProfil.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Debug\GSB.csproj.GenerateResource.Cache
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Debug\GSB.csprojResolveAssemblyReference.cache

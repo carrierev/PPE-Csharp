@@ -1,0 +1,33 @@
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\bin\Release\GSB.exe.config
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\bin\Release\GSB.exe
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\bin\Release\GSB.pdb
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Release\GSB.csproj.GenerateResource.Cache
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Release\GSB.exe
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Release\GSB.pdb
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\bin\Release\MySql.Data.dll
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Release\WindowsFormsApplication1.FrmCnx.resources
+C:\Documents and Settings\david\Mes documents\Visual Studio 2008\Projects\GSB\GSB\obj\Release\WindowsFormsApplication1.FrmProfil.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\bin\Release\GSB.exe.config
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Release\GSB.exe
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Release\GSB.pdb
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\bin\Release\GSB.exe
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\bin\Release\GSB.pdb
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Release\WindowsFormsApplication1.FrmMenu.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Release\WindowsFormsApplication1.PanelConnexion.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Release\WindowsFormsApplication1.PanelProfil.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Release\GSB.csproj.GenerateResource.Cache
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSBv2\GSB\obj\Release\GSB.csprojResolveAssemblyReference.cache
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\bin\Release\GSB.exe.config
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Release\GSB.exe
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Release\GSB.pdb
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\bin\Release\GSB.exe
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\bin\Release\GSB.pdb
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Release\GSB.csprojResolveAssemblyReference.cache
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Release\WindowsFormsApplication1.FrmMenu.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Release\WindowsFormsApplication1.PanelConnexion.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Release\WindowsFormsApplication1.PanelProfil.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David Ung\Documents\Visual Studio 2012\Projects\GSB\GSB\obj\Release\GSB.csproj.GenerateResource.Cache
